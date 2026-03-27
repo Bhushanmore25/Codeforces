@@ -13,6 +13,7 @@ Ratings
 ## 🟢 Rating: 1100
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
+| [1791G1](https://codeforces.com/contest/1791/problem/G1) | Codeforces Round 849  Div  4  | [View Solution](./1100_Codeforces_Round_849__Div__4__1791_G1) | Java 21 |
 | [1869B](https://codeforces.com/contest/1869/problem/B) | Codeforces Round 896  Div  2  | [View Solution](./1100_Codeforces_Round_896__Div__2__1869_B) | Java 21 |
 | [1807G2](https://codeforces.com/contest/1807/problem/G2) | Codeforces Round 859  Div  4  | [View Solution](./1100_Codeforces_Round_859__Div__4__1807_G2) | Java 21 |
 | [1827A](https://codeforces.com/contest/1827/problem/A) | Codeforces Round 873  Div  1  | [View Solution](./1100_Codeforces_Round_873__Div__1__1827_A) | Java 21 |
