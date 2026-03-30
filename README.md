@@ -13,6 +13,7 @@ Ratings
 ## 🟢 Rating: 1100
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
+| [1673B](https://codeforces.com/contest/1673/problem/B) | Codeforces Round 785  Div  2  | [View Solution](./1100_Codeforces_Round_785__Div__2__1673_B) | Java 21 |
 | [1682B](https://codeforces.com/contest/1682/problem/B) | Codeforces Round 793  Div  2  | [View Solution](./1100_Codeforces_Round_793__Div__2__1682_B) | Java 21 |
 | [1708B](https://codeforces.com/contest/1708/problem/B) | Codeforces Round 808  Div  2  | [View Solution](./1100_Codeforces_Round_808__Div__2__1708_B) | Java 21 |
 | [1731B](https://codeforces.com/contest/1731/problem/B) | Codeforces Round 841  Div  2  and Divide by Zero 2022 | [View Solution](./1100_Codeforces_Round_841__Div__2__and_Divide_by_Zero_2022_1731_B) | Java 21 |
