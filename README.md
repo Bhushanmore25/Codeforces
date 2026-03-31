@@ -13,6 +13,7 @@ Ratings
 ## 🟢 Rating: 1100
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
+| [1669F](https://codeforces.com/contest/1669/problem/F) | Codeforces Round 784  Div  4  | [View Solution](./1100_Codeforces_Round_784__Div__4__1669_F) | Java 21 |
 | [1673B](https://codeforces.com/contest/1673/problem/B) | Codeforces Round 785  Div  2  | [View Solution](./1100_Codeforces_Round_785__Div__2__1673_B) | Java 21 |
 | [1682B](https://codeforces.com/contest/1682/problem/B) | Codeforces Round 793  Div  2  | [View Solution](./1100_Codeforces_Round_793__Div__2__1682_B) | Java 21 |
 | [1708B](https://codeforces.com/contest/1708/problem/B) | Codeforces Round 808  Div  2  | [View Solution](./1100_Codeforces_Round_808__Div__2__1708_B) | Java 21 |
