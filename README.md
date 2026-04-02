@@ -13,6 +13,7 @@ Ratings
 ## 🟢 Rating: 1100
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
+| [1618C](https://codeforces.com/contest/1618/problem/C) | Codeforces Round 760  Div  3  | [View Solution](./1100_Codeforces_Round_760__Div__3__1618_C) | Java 21 |
 | [1631B](https://codeforces.com/contest/1631/problem/B) | Codeforces Round 768  Div  2  | [View Solution](./1100_Codeforces_Round_768__Div__2__1631_B) | Java 21 |
 | [1656B](https://codeforces.com/contest/1656/problem/B) | CodeTON Round 1  Div  1   Div  2  Rated  Prizes   | [View Solution](./1100_CodeTON_Round_1__Div__1___Div__2__Rated__Prizes___1656_B) | Java 21 |
 | [1669F](https://codeforces.com/contest/1669/problem/F) | Codeforces Round 784  Div  4  | [View Solution](./1100_Codeforces_Round_784__Div__4__1669_F) | Java 21 |
