@@ -37,3 +37,8 @@ Ratings
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
 | [1474B](https://codeforces.com/contest/1474/problem/B) | Codeforces Round 696  Div  2  | [View Solution](./1000_Codeforces_Round_696__Div__2__1474_B) | Java 21 |
+
+## 🟢 Rating: Unrated
+| Problem | Contest | Code | Language |
+| :--- | :--- | :---: | :---: |
+| [1593B](https://codeforces.com/contest/1593/problem/B) | Contest | [View Solution](./Unrated_Contest_1593_B) | Java 21 |
