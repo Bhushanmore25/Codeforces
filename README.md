@@ -41,6 +41,7 @@ Ratings
 ## 🟢 Rating: Unrated
 | Problem | Contest | Code | Language |
 | :--- | :--- | :---: | :---: |
+| [1582C](https://codeforces.com/contest/1582/problem/C) | Contest | [View Solution](./Unrated_Contest_1582_C) | Java 21 |
 | [1594C](https://codeforces.com/contest/1594/problem/C) | Contest | [View Solution](./Unrated_Contest_1594_C) | Java 21 |
 | [1671C](https://codeforces.com/contest/1671/problem/C) | Contest | [View Solution](./Unrated_Contest_1671_C) | Java 21 |
 | [1679B](https://codeforces.com/contest/1679/problem/B) | Contest | [View Solution](./Unrated_Contest_1679_B) | Java 21 |
